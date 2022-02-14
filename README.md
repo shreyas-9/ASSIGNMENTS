@@ -1,3 +1,3 @@
 # ASSIGNMENTS
 
-@google.com
+www.oogle.com
